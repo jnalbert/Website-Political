@@ -1,0 +1,14 @@
+h1 {
+    background-image: url(https://wallpapercave.com/wp/wp2402523.jpg);
+    color: black;
+}
+body {
+    background-color: burlywood;
+}
+.list {
+    border: 10px;
+    display: inline-block;
+    margin: auto;
+    margin-top: 10px;;
+}
+
